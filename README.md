@@ -1,6 +1,6 @@
 # AnnotationGuidelines
 
-Annotation Guidelines for Incident Reports of Medication Errors
+Annotation Guidelines for Incident Reports of Medication Errors (for English reports and for Japanese reports)
 
 MARCH 31, 2022 (V.1.0.2)
 
